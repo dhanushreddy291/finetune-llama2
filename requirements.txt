@@ -1,0 +1,12 @@
+accelerate
+appdirs
+loralib
+scipy
+bitsandbytes
+black
+black[jupyter]
+datasets
+git+https://github.com/huggingface/peft.git
+transformers>=4.28.0
+sentencepiece
+protobuf
